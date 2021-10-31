@@ -6,3 +6,5 @@ replaced certain divs with semantic html
 added id for search-engin-optimization
 Reorganized css
 updated title
+Consolidated content css styles removing need for multiple classes
+Consolidated benifits css styles removing need for multiple classes
