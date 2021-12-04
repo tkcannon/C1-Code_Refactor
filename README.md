@@ -1,5 +1,5 @@
-# C1-Code_Refactor
-Challenge 1, Code Refactor
+Code Refactor
+Challenge 1
 
 ## Changes
 - Replaced certain divs with semantic html elements.
